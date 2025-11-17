@@ -2,11 +2,11 @@
   "name": "@vaayuo/carbonfox-theme",
   "displayName": "Carbonfox for Yaak",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "A dark, elegant theme for Yaak based on the Carbonfox variant from the Nightfox VSCode theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/carbonfox-theme.git"
+    "url": "https://github.com/SahilMahale/carbonfox-theme.git"
   },
   "keywords": [
     "yaak",
